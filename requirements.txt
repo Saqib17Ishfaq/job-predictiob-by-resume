@@ -1,5 +1,4 @@
 fastapi
-jupyter
 numpy
 pandas
 pydantic

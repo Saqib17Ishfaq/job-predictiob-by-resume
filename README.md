@@ -63,6 +63,13 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+Notebook support is optional. Install Jupyter separately when you want to run
+the notebook:
+
+```bash
+pip install jupyter
+```
+
 ## Run the notebook
 
 Start Jupyter from the project root so the CSV file can be found:
